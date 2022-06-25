@@ -20,7 +20,7 @@
                     <label for="floatingDate">Tanggal</label>
                   </div>
                   
-                  <button class="btn bg-dark btn-outlines-dark" onclick="store()">Submit</button>
+                  <button class="btn btn-outline-dark" onclick="store()">Submit</button>
                 </form>
             
         </div>
